@@ -1,0 +1,102 @@
+{
+    "items": [
+        {
+            "id": "01",
+            "bgImg": "../images/me/me+tyler.jpeg",
+            "title": "The Ice Cream Museum",
+            "description": "hello",
+            "active": true
+        },
+        {
+            "id": "02",
+            "bgImg": "../images/me/spain2.jpeg",
+            "title": "Spring Break In Spain",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "03",
+            "bgImg": "../images/me/flowers2.jpeg",
+            "title": "Happy Valenties Day!",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "04",
+            "bgImg": "../images/me/prom.jpeg",
+            "title": "My Beautiful Cousin",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "05",
+            "bgImg": "../images/me/groupSt.jpeg",
+            "title": "The St Patty's of 2024",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "06",
+            "bgImg": "../images/me/jumping.jpeg",
+            "title": "Iconic Toronto Jump",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "07",
+            "bgImg": "../images/me/mecc.jpeg",
+            "title": "MECC!!!",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "08",
+            "bgImg": "../images/me/football.JPG",
+            "title": "Happy Game Day! Go Blue!",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": "09",
+            "bgImg": "../images/me/family.jpeg",
+            "title": "Merry Christmas from the Pin-Pen Fam",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": 10,
+            "bgImg": "../images/me/dateTyler.jpeg",
+            "title": "Date Party with <3",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": 11,
+            "bgImg": "../images/me/dateParty.jpg",
+            "title": "Date Party of 2023",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": 12,
+            "bgImg": "../images/me/christmas.jpeg",
+            "title": "Happy 70th To My Grandpa",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": 13,
+            "bgImg": "../images/me/cabin.jpeg",
+            "title": "Unforgettable Cabin Trip",
+            "description": "hello",
+            "active": false
+        },
+        {
+            "id": 14,
+            "bgImg": "../images/me/birthday20.jpeg",
+            "title": "Happy 20th to Me!",
+            "description": "hello",
+            "active": false
+        }
+    ]
+}
